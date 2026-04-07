@@ -18,6 +18,10 @@
 ░▀▀▀░░▀░░▀▀▀░▀░▀░▀░▀░▀░▀░▀░▀░▀▀▀░▀▀▀░▀░▀
 ```
 
+<p align="center">
+  <img src="./logo.png" alt="Logo">
+</p>
+
 # 小朱诺诺的.skill
 
 **一个蒸馏自 12 个「最O幻想」视频的 GalGame Skill**
