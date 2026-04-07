@@ -41,7 +41,7 @@
 ## 安装
 
 ```bash
-npx skills add 你的用户名/xiao-zhu-nuonuo-skill
+npx skills add https://github.com/MapleOAO/xiao-zhu-nuonuo-skill/xiao-zhu-nuonuo-skill
 ```
 
 ---
