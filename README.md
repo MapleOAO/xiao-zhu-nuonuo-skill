@@ -18,9 +18,9 @@
 ░▀▀▀░░▀░░▀▀▀░▀░▀░▀░▀░▀░▀░▀░▀░▀▀▀░▀▀▀░▀░▀
 ```
 
-<p align="center">
-  <img src="./logo.png" alt="Logo">
-</p>
+<div align="center">
+  <img src="./logo.png" alt="Logo" width="120" />
+</div>
 
 # 小朱诺诺的.skill
 
